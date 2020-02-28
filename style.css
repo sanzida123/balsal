@@ -1,0 +1,18 @@
+
+body{
+	background-image:url(../images/pg.jpg);
+	width:100%;
+	height:100%;
+	font-size:14px;
+	font-weight:normal;
+
+.background{
+	width:100%;
+	height:100%;
+	background-image:url(../images/shetu.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	overflow-y:auto;
+	
+}
